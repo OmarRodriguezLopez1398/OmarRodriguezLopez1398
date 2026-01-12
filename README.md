@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar
 
-<!--
-**OmarRodriguezLopez1398/OmarRodriguezLopez1398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD student in Physical Chemistry @ USC 🇪🇸  
+🧪 Computational & physical chemistry enthusiast
 
-Here are some ideas to get you started:
+## 🤔 About me
+- 🧠 Simulating molecules instead of breaking lab glassware
+- 🧠 Learning new things… forgetting old ones
+- ☕ Powered by coffee
+- 🐛 Bug creator & bug fixer (sometimes the same bug)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+- Languages: the ones that compile (eventually)
+
+## 🚀 What I do here
+- Build projects
+- Break things
+- Fix them
+- Repeat 🔁
+
+## 📫 Contact
+- If it doesn’t work, it’s probably my fault
+- If it works… definitely my fault 😎
