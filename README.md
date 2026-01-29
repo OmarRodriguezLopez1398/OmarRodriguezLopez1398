@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar
+# Hi, I'm Omar
 
 🎓 PhD student in Physical Chemistry @ USC 🇪🇸  
 🧪 Computational & physical chemistry enthusiast
@@ -22,4 +22,4 @@
 - If it doesn’t work, it’s probably my fault
 - If it works… definitely my fault 😎
 
-## Bye
+## Bye 👋👋
