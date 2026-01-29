@@ -21,3 +21,5 @@
 ## 📫 Contact
 - If it doesn’t work, it’s probably my fault
 - If it works… definitely my fault 😎
+
+## Bye
