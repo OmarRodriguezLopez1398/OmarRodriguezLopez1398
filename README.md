@@ -120,7 +120,7 @@ class Omar:
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmarRodriguezLopez1398&show_icons=true&bg_color=0d0d0f&title_color=e0323a&icon_color=e0323a&text_color=d8d8d8&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRodriguezLopez1398&background=0D0D0F&ring=E0323A&fire=E0323A&currStrNum=FFFFFF&sideNums=FFFFFF&currStrLabel=E0323A&sideLabels=D8D8D8&dates=9A9AA6&stroke=3A191B&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarRodriguezLopez1398&background=0D0D0F&ring=E0323A&fire=E0323A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E0323A&sideLabels=D8D8D8&dates=9A9AA6&stroke=3A191B&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
